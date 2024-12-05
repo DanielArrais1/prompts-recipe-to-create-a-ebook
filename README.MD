@@ -41,7 +41,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | me de sugestoes de titulos poderosos para esse livro                                                              |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | voce agora é um escritor renomado de liderança  produtividade. escreva um ebook ou um artigo sobre os sete habitos das pessoas altamente eficazes, porem usando exemplos e situações do estilo de liderança do Luffy no universo do One Piece |
 
 
 Midjourney：
