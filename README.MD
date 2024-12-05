@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
+<a href="https://dio.me/"><img src=".github/assets/daniel.arrais_o_pirata_Luffy_vestindo_terno_e_gravata_na_proa_do_032bef2a-1cef-4bbd-89bd-e33ceb3c0c73 (2).png" alt="DIO - course"></a>
 <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
 
 -------
