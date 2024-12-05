@@ -44,11 +44,11 @@ ChatGPT：
 | conteúdo | voce agora é um escritor renomado de liderança  produtividade. escreva um ebook ou um artigo sobre os sete habitos das pessoas altamente eficazes, porem usando exemplos e situações do estilo de liderança do Luffy no universo do One Piece |
 
 
-Midjourney：
+Imagine.art：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | o pirata Luffy vestindo terno e gravata na proa do barco pirata onde na cela aparecem uns graficos financeiros |
 
 ## ✨ Features
 
